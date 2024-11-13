@@ -1,0 +1,7 @@
+Primary key : efaf4b786799472983e9c678385a3bb9
+account id : 89a79219-26cc-4b15-bd53-29ee4794f3bd
+Location : trial
+
+*note*:
+account id is found in https://www.videoindexer.ai/media/library
+Primary key is found in https://api-portal.videoindexer.ai/profile
